@@ -1,7 +1,7 @@
 export interface Item {
     nombre:String,
     descripcion: String,
-    precio: GLfloat,
+    precio: number,
     status: number,
     id: number,
 }
